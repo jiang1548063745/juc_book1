@@ -1,6 +1,7 @@
 package com.rorschach.create;
 
 /**
+ * 创建线程的方式1 继承Thread类
  * @author Rorschach
  * @date 2021-3-14 20:33
  */
